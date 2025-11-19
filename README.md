@@ -46,7 +46,7 @@ Hosted on **Firebase Authentication** and **Firestore**, Cinch ensures secure, s
 **Machine Learning**
 
 * Real-time gesture/pose detection
-* Custom model / Mediapipe / TensorFlow Lite
+* TensorFlow Lite
 
 ---
 
@@ -69,10 +69,21 @@ Requirements:
 
 ## 🤝 **Contributing**
 
-PRs are welcome! Open an issue to suggest improvements or report bugs.
+Contributions are absolutely welcome! 🎉
+
+This project was primarily developed locally, so commit history on the public repository may appear limited. However, collaboration, ideas, discussions, and pull requests are encouraged.
+
+If you’d like to contribute:
+
+Open an issue to propose ideas or report bugs
+
+Submit a pull request with improvements
+
+Your input is genuinely appreciated.
 
 ---
 
 ## 📄 **License**
 
 This project is licensed under the MIT License.
+
